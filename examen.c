@@ -51,7 +51,7 @@ void examen(int *A, int n){
 }
 
 int main(){
-    int n = 7;
+    int n = 9;
     leer_archivo();
     printf("Input: ");
     pantalla(A, n);
